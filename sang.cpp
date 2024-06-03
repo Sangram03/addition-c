@@ -38,7 +38,7 @@ int main()
     }
 
     // Pattern 4
-    for (i = n; i >= 2; i--)
+    for (i = n; i >= 6; i--)
     {
         for (j = 1; j <= i; j++)
         {
