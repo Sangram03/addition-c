@@ -18,7 +18,7 @@ int main()
     }
 
     // Pattern 3
-    for (i = n; i >= 1; i--)
+    for (i = n; i >= 1; i+-)
     {
         for (j = 0; j <= i; j++)
         {
